@@ -7,5 +7,14 @@ public class sample
   
   }
   
+  public void add()
+  {
+   
+   
+   System.out.println("update the method");
+   
+   }
+  }
+  
   
 }
