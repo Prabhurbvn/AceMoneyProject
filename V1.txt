@@ -1,0 +1,11 @@
+public class sample
+{
+
+ public void display()
+ {
+  System.out.println("This is HRM project');
+  
+  }
+  
+  
+}
