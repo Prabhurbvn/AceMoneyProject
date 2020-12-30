@@ -14,6 +14,13 @@ public class sample
    System.out.println("update the method");
    
    }
+   
+   public void sub()
+   {
+   System.out.println("update master branch");
+   
+   }
+   
   }
   
   
