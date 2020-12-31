@@ -21,6 +21,10 @@ public class sample
    
    }
    
+   public void div()
+   {
+   System.out.println("update another user");
+   }
   }
   
   
